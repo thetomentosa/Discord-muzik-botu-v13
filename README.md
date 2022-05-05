@@ -1,5 +1,5 @@
 # Discord-muzik-botu-v13
-Discord v13 Gelişmiş Müzik botu Altyapısı hem sadece slash komutlu.
+Discord v13 Gelişmiş Müzik botu Altyapısı
 
 Destek için discord sunucuma gelebilirsiniz. https://discord.gg/hNXtjWDCyd
 
